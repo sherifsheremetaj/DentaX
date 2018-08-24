@@ -1,0 +1,49 @@
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\bin\Debug\DentaX.exe.config
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\bin\Debug\DentaX.exe
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\bin\Debug\DentaX.pdb
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.AddPatient.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.Form1.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.Menu.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.Properties.Resources.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.server.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.Trajtimi.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.csproj.GenerateResource.Cache
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.exe
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.pdb
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.csprojResolveAssemblyReference.cache
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.editpatient.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.Edittrajtimi.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.csproj.ResolveComReference.cache
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.Form2.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.addsherbim.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.info.resources
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\bin\Debug\DentaX.exe.manifest
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\bin\Debug\DentaX.application
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.TrustInfo.xml
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.exe.manifest
+C:\Users\Sherif\documents\visual studio 2013\Projects\DentaX\DentaX\obj\Debug\DentaX.application
+F:\Programet\DentaX\DentaX\bin\Debug\DentaX.exe.config
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.csproj.ResolveComReference.cache
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.exe
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.pdb
+F:\Programet\DentaX\DentaX\bin\Debug\DentaX.exe.manifest
+F:\Programet\DentaX\DentaX\bin\Debug\DentaX.application
+F:\Programet\DentaX\DentaX\bin\Debug\DentaX.exe
+F:\Programet\DentaX\DentaX\bin\Debug\DentaX.pdb
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.csprojResolveAssemblyReference.cache
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.AddPatient.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.addsherbim.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.editpatient.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.Edittrajtimi.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.Form1.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.Form2.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.info.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.Menu.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.Properties.Resources.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.server.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.Trajtimi.resources
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.csproj.GenerateResource.Cache
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.TrustInfo.xml
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.exe.manifest
+F:\Programet\DentaX\DentaX\obj\Debug\DentaX.application
